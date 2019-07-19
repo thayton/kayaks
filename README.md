@@ -3,3 +3,4 @@
 - Lifetime Tamarack Angler Sit-On-Top Kayak
 - Perception Pescador 10
 - Bonafide SS127
+- Nucanoe Frontier 12
