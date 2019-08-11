@@ -2,5 +2,5 @@
 - The Catch 100
 - Lifetime Tamarack Angler Sit-On-Top Kayak
 - Perception Pescador 10
-- Bonafide SS127
+- [Bonafide SS127](https://bonafidekayaks.com/product/kayaks/ss127/)
 - Nucanoe Frontier 12
