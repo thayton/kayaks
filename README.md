@@ -1,4 +1,5 @@
 # kayaks
+- [Feelfree](https://feelfreeus.com/kayaks/fishing-kayaks/lure-11-5/)
 - [Vibe Kayaks](https://vibekayaks.com/collections/kayaks)
 - The Catch 100
 - Lifetime Tamarack Angler Sit-On-Top Kayak
