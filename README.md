@@ -1,4 +1,5 @@
 # kayaks
+- [Jackson Kayaks](https://jacksonkayak.com/blog/kayak/bite/)
 - [Feelfree](https://feelfreeus.com/kayaks/fishing-kayaks/lure-11-5/)
 - [Vibe Kayaks](https://vibekayaks.com/collections/kayaks)
 - The Catch 100
