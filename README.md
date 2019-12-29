@@ -7,3 +7,5 @@
 - Perception Pescador 10
 - [Bonafide SS127](https://bonafidekayaks.com/product/kayaks/ss127/)
 - Nucanoe Frontier 12
+- [Old Town Pack](http://canoeing.com/product/old-town-pack/) Single seat canoe
+
