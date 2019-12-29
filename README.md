@@ -6,6 +6,7 @@
 - Lifetime Tamarack Angler Sit-On-Top Kayak
 - Perception Pescador 10
 - [Bonafide SS127](https://bonafidekayaks.com/product/kayaks/ss127/)
-- Nucanoe Frontier 12
+- [Nucanoe Frontier 12](https://www.nucanoe.com/nucanoe-frontier/)
 - [Old Town Pack](http://canoeing.com/product/old-town-pack/) Single seat canoe
+- [Nucano Classic](https://www.nucanoe.com/nucanoe-classic/)
 
