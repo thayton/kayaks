@@ -12,3 +12,5 @@
 - [Nucanoe Classic](https://www.nucanoe.com/nucanoe-classic/)
 - [Johnny Boats](https://jonnyboats.com/)
 
+## Safety
+https://dnr.maryland.gov/fisheries/Pages/recreational/Kayak_Fishing.aspx
