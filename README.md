@@ -11,6 +11,8 @@
 - [Old Town Pack](http://canoeing.com/product/old-town-pack/) Single seat canoe
 - [Nucanoe Classic](https://www.nucanoe.com/nucanoe-classic/)
 - [Johnny Boats](https://jonnyboats.com/)
+- [Solo Skiff](https://www.soloskiff.com/)
+- [Pond Prowler](https://www.basspro.com/shop/en/uncle-bucks-pond-prowler-boat-10)
 
 ## Safety
 https://dnr.maryland.gov/fisheries/Pages/recreational/Kayak_Fishing.aspx
