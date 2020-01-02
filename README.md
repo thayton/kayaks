@@ -15,6 +15,7 @@
 - [Pond Prowler](https://www.basspro.com/shop/en/uncle-bucks-pond-prowler-boat-10)
 - [Creek Boats M10](https://www.creekboats.com/m10)
 - [Ascend DC14 Canoe](https://www.basspro.com/shop/en/ascend-dc14-canoe)
+- [Ascend 12T](https://www.basspro.com/shop/en/ascend-12t-sit-on-top-camo-kayak)
 
 ## Safety
 https://dnr.maryland.gov/fisheries/Pages/recreational/Kayak_Fishing.aspx
