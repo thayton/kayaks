@@ -1,5 +1,4 @@
 # kayaks
-- [Ascend DC14 Canoe](https://www.basspro.com/shop/en/ascend-dc14-canoe)
 - [Nucanoe Flint](https://www.nucanoe.com/flint-fishing-kayak/)
 - [Jackson Kayaks](https://jacksonkayak.com/blog/kayak/bite/)
 - [Feelfree](https://feelfreeus.com/kayaks/fishing-kayaks/lure-11-5/)
@@ -14,6 +13,8 @@
 - [Johnny Boats](https://jonnyboats.com/)
 - [Solo Skiff](https://www.soloskiff.com/)
 - [Pond Prowler](https://www.basspro.com/shop/en/uncle-bucks-pond-prowler-boat-10)
+- [Creek Boats M10](https://www.creekboats.com/m10)
+- [Ascend DC14 Canoe](https://www.basspro.com/shop/en/ascend-dc14-canoe)
 
 ## Safety
 https://dnr.maryland.gov/fisheries/Pages/recreational/Kayak_Fishing.aspx
