@@ -1,4 +1,5 @@
 # kayaks
+- [Ascend DC14 Canoe](https://www.basspro.com/shop/en/ascend-dc14-canoe)
 - [Nucanoe Flint](https://www.nucanoe.com/flint-fishing-kayak/)
 - [Jackson Kayaks](https://jacksonkayak.com/blog/kayak/bite/)
 - [Feelfree](https://feelfreeus.com/kayaks/fishing-kayaks/lure-11-5/)
