@@ -1,4 +1,5 @@
 # kayaks
+- [Native Ultimate 12](https://nativewatercraft.com/product/ultimate-12/)
 - [Nucanoe Flint](https://www.nucanoe.com/flint-fishing-kayak/)
 - [Jackson Kayaks](https://jacksonkayak.com/blog/kayak/bite/)
 - [Feelfree](https://feelfreeus.com/kayaks/fishing-kayaks/lure-11-5/)
